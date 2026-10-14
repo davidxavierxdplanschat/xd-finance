@@ -1,6 +1,6 @@
 # Análise da brapi Free — XD Finance
 
-Pesquisa em 14/10/2026. Projeto de Hexed Plans, criado por David Xavier.
+Pesquisa em 14/10/2026. Projeto de XD Plans, criado por David Xavier.
 
 ## Conclusão
 

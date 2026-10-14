@@ -33,7 +33,7 @@ export default async function Guide({
       <div className="eyebrow">{g.category}</div>
       <h1>{g.title}</h1>
       <div className="article-meta">
-        Por David Xavier · XD Finance / Hexed Plans
+        Por David Xavier · XD Finance / XD Plans
       </div>
       <p>{g.text}</p>
       <div className="panel">

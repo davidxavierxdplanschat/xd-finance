@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   },
   alternates: { canonical: '/' },
   description:
-    'Explore moedas, criptomoedas e ativos da B3 com o XD Finance. Um projeto de Hexed Plans, criado por David Xavier.',
+    'Explore moedas, criptomoedas e ativos da B3 com o XD Finance. Um projeto de XD Plans, criado por David Xavier.',
   robots: process.env.NEXT_PUBLIC_SITE_URL?.startsWith('https://')
     ? { index: true, follow: true }
     : { index: false, follow: false },
@@ -31,7 +31,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
               url: process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000',
               inLanguage: 'pt-BR',
               author: { '@type': 'Person', name: 'David Xavier' },
-              publisher: { '@type': 'Organization', name: 'Hexed Plans' },
+              publisher: { '@type': 'Organization', name: 'XD Plans' },
             }).replace(/</g, String.fromCharCode(92) + 'u003c'),
           }}
         />
@@ -69,7 +69,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <Link href="/sobre">Sobre o projeto ↗</Link>
           </div>
           <div className="footer-bottom">
-            <span>© {new Date().getFullYear()} XD Finance · Hexed Plans</span>
+            <span>© {new Date().getFullYear()} XD Finance · XD Plans</span>
             <span>
               Criado por <strong>David Xavier</strong>
             </span>

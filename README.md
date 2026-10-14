@@ -4,7 +4,7 @@
 
 Portal educativo de moedas, criptomoedas e mercado brasileiro, com uma experiência **dark em roxo**. Desenvolvido com **Next.js, React e TypeScript**, integrado à **brapi** e preparado para publicação na **Vercel**.
 
-**Criação: David Xavier · Hexed Plans**
+**Criação: David Xavier · XD Plans**
 
 ![Prévia da landing page do XD Finance](docs/preview.png)
 
@@ -120,7 +120,7 @@ docs/         Prévia visual e análise da cobertura gratuita
 
 - **Projeto:** XD Finance
 - **Concepção e criação:** David Xavier
-- **Créditos:** Hexed Plans
+- **Créditos:** XD Plans
 - **Dados de mercado:** [brapi.dev](https://brapi.dev/)
 - **Ícones de cripto:** [cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons)
 

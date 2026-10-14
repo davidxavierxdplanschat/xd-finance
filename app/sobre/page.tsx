@@ -13,7 +13,7 @@ export default function About() {
         <br />à curiosidade<span>.</span>
       </h1>
       <p>
-        XD Finance é um projeto de portfólio da Hexed Plans, criado por David
+        XD Finance é um projeto de portfólio da XD Plans, criado por David
         Xavier. O objetivo é reunir educação financeira e exploração de ativos
         em uma experiência simples.
       </p>
@@ -82,7 +82,7 @@ export default function About() {
       </p>
       <div className="panel">
         <div className="eyebrow">CRÉDITOS</div>
-        <h2>Hexed Plans</h2>
+        <h2>XD Plans</h2>
         <p>
           Concepção e criação: <strong>David Xavier</strong>
           <br />

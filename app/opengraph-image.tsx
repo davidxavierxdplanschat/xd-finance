@@ -25,7 +25,7 @@ export default function Image() {
           marginBottom: 32,
         }}
       >
-        XD FINANCE / HEXED PLANS
+        XD FINANCE / XD Plans
       </div>
       <div style={{ display: 'flex', fontSize: 76, lineHeight: 1.1 }}>
         Seu dinheiro. Seu mundo.
