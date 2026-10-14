@@ -1,0 +1,38 @@
+{
+  "name": "xd-finance",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "prettier": "3.9.10",
+    "typescript": "^5.9.0"
+  },
+  "description": "Portal educativo de moedas e mercado brasileiro com Next.js, React e brapi. Criado por David Xavier · Hexed Plans.",
+  "author": "David Xavier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidxavierxdplanschat/xd-finance.git"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "overrides": {
+    "postcss": "8.5.30"
+  }
+}
